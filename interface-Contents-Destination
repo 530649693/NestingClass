@@ -1,0 +1,6 @@
+public interface Contents {
+	int value();
+}
+public interface Destination {
+	String readLabel();
+}
